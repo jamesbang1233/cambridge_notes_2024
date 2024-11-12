@@ -1,2 +1,2 @@
-# cambridge_notes_2024
-cambridge notes 2024
+# cambridge_public
+Files from my years at Cambridge, available for public view.
